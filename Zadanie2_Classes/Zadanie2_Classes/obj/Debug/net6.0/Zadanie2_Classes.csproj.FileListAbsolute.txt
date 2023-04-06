@@ -1,0 +1,15 @@
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.csproj.AssemblyReference.cache
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.AssemblyInfoInputs.cache
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.AssemblyInfo.cs
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\bin\Debug\net6.0\Zadanie2_Classes.exe
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\bin\Debug\net6.0\Zadanie2_Classes.deps.json
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\bin\Debug\net6.0\Zadanie2_Classes.runtimeconfig.json
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\bin\Debug\net6.0\Zadanie2_Classes.dll
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\bin\Debug\net6.0\Zadanie2_Classes.pdb
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.dll
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\refint\Zadanie2_Classes.dll
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.pdb
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\Zadanie2_Classes.genruntimeconfig.cache
+C:\Users\Revision\source\repos\Zadanie2_Classes\Zadanie2_Classes\obj\Debug\net6.0\ref\Zadanie2_Classes.dll
